@@ -1,0 +1,30 @@
+{
+  "name": "fastproject",
+  "version": "1.0.0",
+  "description": "Fast project design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielrufino/fastproject.git"
+  },
+  "keywords": [
+    "HTML5",
+    "CSS3",
+    "Javascript",
+    "Bootstrap"
+  ],
+  "author": "Gabriel Rufino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielrufino/fastproject/issues"
+  },
+  "homepage": "https://github.com/gabrielrufino/fastproject#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
