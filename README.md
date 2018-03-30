@@ -1,2 +1,2 @@
 # fastproject
-Fast project template
+fastproject template

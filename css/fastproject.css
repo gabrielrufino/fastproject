@@ -26,3 +26,12 @@ body {
 .fastproject-bg-white {
     background-color: #F5F0F2;
 }
+
+.fastproject-btn-primary {
+    color: #F5F0F2;
+    background-color: #324087;
+}
+
+.fastproject-btn-primary:hover {
+    background-color: #263279;
+}
