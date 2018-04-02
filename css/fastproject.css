@@ -33,5 +33,6 @@ body {
 }
 
 .fastproject-btn-primary:hover {
+    color: #FFF;
     background-color: #263279;
 }
